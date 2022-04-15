@@ -3,7 +3,7 @@
 Design Patterns #2 - Builder
 
 This is the second pattern exercise from a series of academic projects were I'm implementing different code quality concepts in small projects. 
-Check the previous project ([Singleton](https://github.com/euaaron/dp-singleton)).
+Check out the previous project ([Singleton](https://github.com/euaaron/dp-singleton)).
 
 The Builder pattern is a creational pattern that aims to improve the creation of objects by adding an organized way to validate fields during the creation.
 The idea is to when creating an object, instead of use the class constructor, to use a different method to add values to each property but still having not only the consistency that constructors provide.
